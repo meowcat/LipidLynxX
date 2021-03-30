@@ -1,4 +1,7 @@
 
-include config.ini
-recursive_include lynx/configurations *
-recursive_include lynx/models *
+include lynx/config.ini
+graft lynx/configurations
+graft lynx/models/schema
+graft lynx/templates
+graft lynx/static
+

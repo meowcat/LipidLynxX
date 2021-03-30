@@ -19,7 +19,7 @@ setup(
     url='https://github.com/SysMedOs/LipidLynxX',
     author='Zhixu Ni, Maria Fedorova',
     author_email='author@gmail.com',
-    description='LipidLynxx',
+    description='LipidLynxX',
     packages=find_packages(exclude=('test')),    
     install_requires=req,
     include_package_data = True
