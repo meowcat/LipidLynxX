@@ -1,0 +1,4 @@
+
+include config.ini
+recursive_include lynx/configurations *
+recursive_include lynx/models *
